@@ -23,3 +23,9 @@ AuthoVate is a robust MERN stack application that provides secure user authentic
 
 ## Workflow 
 ![Complete Workflow](./client/src/assets/workflow.png)
+
+## Home Page
+![Home page](./client/src/assets/homepage.png)
+
+## Signup 
+![signup](./client/src/assets/signup.png)
