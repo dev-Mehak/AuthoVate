@@ -22,4 +22,4 @@ AuthoVate is a robust MERN stack application that provides secure user authentic
 - **Email/OTP Service**: Nodemailer or equivalent SMTP service for sending OTPs.
 
 ## Workflow 
-![Complete Workflow](client\src\assets\workflow.png)
+![Complete Workflow](./client/src/assets/workflow.png)
